@@ -1,4 +1,4 @@
- 📊 Amazon Sales Dashboard (Tableau)
+ ## 📊 Amazon Sales Dashboard (Tableau)
 
 This project contains a Tableau dashboard that visualizes and analyzes sales data from Amazon.
 
